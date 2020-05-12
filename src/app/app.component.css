@@ -1,3 +1,10 @@
 p {
   font-family: Lato;
 }
+
+.flex-container { 
+  background-color: aquamarine;
+  padding:10px;
+  display: flex;
+  flex-direction: column;
+}
