@@ -1,10 +1,12 @@
 p {
-  font-family: Lato;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .flex-container { 
   background-color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
   padding:10px;
+  margin:10px;
   display: flex;
   flex-direction: column;
 }
