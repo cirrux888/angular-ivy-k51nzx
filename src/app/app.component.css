@@ -15,3 +15,7 @@ mat-radio-group {
   display: flex;
   flex-direction: column
 }
+
+.likert { 
+  flex-direction: row
+}
